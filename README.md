@@ -1,0 +1,1 @@
+The PCS Link Controller LITE is a compact, area-optimized Physical Coding Sublayer (PCS) block designed for high-speed serial communication. It implements an 8b/10b encoding/ decoding pipeline, asynchronous clock domain crossing (CDC) FIFOs, and a Link Training and Status State Machine (LTSSM) arbiter that manages a half-duplex, bidirectional shared data bus.
